@@ -1,5 +1,5 @@
  
-![Uploading 8957993.jpg…]()
+
  A PASSIONATED FrontEnd Developer!
   
 Hello there! I'm Muhammad Bilal Khan, a passionate 17-year-old with a knack for HTML and CSS. 🚀 I've delved deep into the world of front-end design, honing my skills to bring creative and visually appealing digital experiences to life.
