@@ -1,6 +1,10 @@
- 
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQE5oUSNsqWoww/profile-displaybackgroundimage-shrink_350_1400/0/1713462027969?e=1718841600&v=beta&t=oAsCDlQu8fiSshSQ4BYtuOG_5wnnnXXexTb_eS2eLHk"  />
+</div>
 
-<h1 align="center">Hey 👋 I am  Passionated Front-End Developer!</h1>
+###
+
+<p align="center">Hey 👋 I am Passionated Front-End Developer!</p>
 
 ###
 
@@ -24,5 +28,4 @@
 </div>
 
 ###
-
 
