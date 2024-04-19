@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQE5oUSNsqWoww/profile-displaybackgroundimage-shrink_350_1400/0/1713462027969?e=1718841600&v=beta&t=oAsCDlQu8fiSshSQ4BYtuOG_5wnnnXXexTb_eS2eLHk"  />
-</div>
-
-###
-
 <p align="center">Hey 👋 I am Passionated Front-End Developer!</p>
 
 ###
@@ -18,6 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -25,7 +23,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/unsplash/default.svg" width="52" height="40" alt="unsplash logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
 </div>
 
 ###
-
